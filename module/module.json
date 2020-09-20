@@ -2,7 +2,7 @@
   "name": "ux-module-bundle",
   "title": "UX Module Bundle",
   "description": "A bundle of system-agnostic UX tweaks to make GM and Players' lives easier.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumCoreVersion": "0.6.2",
   "compatibleCoreVersion": "0.6.6",
   "author": "akrigline",
