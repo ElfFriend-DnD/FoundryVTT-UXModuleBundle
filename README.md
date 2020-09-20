@@ -12,7 +12,7 @@ Most of these speak for themsevles, below are the elevator pitch versions of the
 Theoretically, just add this module to your installation and it will prompt you to install all dependencies.
 
 ```
-https://github.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle/releases/download/latest/module.json
+https://github.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle/releases/latest/download/module.json
 ```
 
 ### libWrapper
