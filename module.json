@@ -1,0 +1,50 @@
+{
+  "name": "ux-module-bundle",
+  "title": "UX Module Bundle",
+  "description": "A bundle of system-agnostic UX tweaks to make GM and Players' lives easier.",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "0.6.6",
+  "author": "akrigline",
+  "dependencies": [
+    {
+      "name": "compendium-folders",
+      "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
+    },
+    {
+      "name": "deselection",
+      "manifest": "https://raw.githubusercontent.com/Sky-Captain-13/foundry/master/deselection/deselection/module.json"
+    },
+    {
+      "name": "dragupload",
+      "manifest": "https://github.com/cswendrowski/FoundryVTT-Drag-Upload/releases/download/1.3.0/module.json"
+    },
+    {
+      "name": "dice-calculator",
+      "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator/raw/master/module.json"
+    },
+    {
+      "name": "easy-target",
+      "manifest": "https://bitbucket.org/Fyorl/easy-target/raw/master/module.json"
+    },
+    {
+      "name": "searchanywhere",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-search-anywhere/raw/master/module/module.json"
+    },
+    {
+      "name": "tidy-ui_game-settings",
+      "manifest": "https://raw.githubusercontent.com/sdenec/tidy-ui_game-settings/master/module.json"
+    },
+    {
+      "name": "token-owner-selection-tweak",
+      "manifest": "https://github.com/ElfFriend-DnD/foundryvtt-tokenOwnerSelectionTweak/releases/download/v0.1.7/module.json"
+    },
+    {
+      "name": "zoom-pan-options",
+      "manifest": "https://github.com/itamarcu/ZoomPanOptions/releases/download/1.3.8/module.json"
+    }
+  ],
+  "bugs": "https://github.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle/issues",
+  "url": "https://github.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle",
+  "manifest": "https://github.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle/releases/download/latest/module.json"
+}
