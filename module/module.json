@@ -46,5 +46,6 @@
   ],
   "bugs": "https://github.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle/issues",
   "url": "https://github.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle",
-  "manifest": "https://github.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle/releases/download/latest/module.json"
+  "manifest": "https://raw.githubusercontent.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle/master/module/module.json",
+  "download": "https://raw.githubusercontent.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle/master/module.zip"
 }

@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/Foundry-v0.6.6-informational)
+
+
 # Foundry UX Improvement Bundle
 
 This module isn't really a module. It's just a bunch of dependencies as a way to bundle up a lot of recommended modules in one. Each of these in the bundle have been tested on 0.6.6 to not have conflicts with eachother and were judged to have a low surface area for conflicting with other modules/systems out there.
