@@ -17,7 +17,7 @@ https://github.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle/releases/latest/downl
 
 ### libWrapper
 
-Several of these modules use the [libWrapper](https://foundryvtt.com/packages/lib-wrapper/) library module to safely change Foundry's core functionality. When installing these modules, Foundry may prompt you to install libWrapper if you haven't already.
+Several of these modules use the [libWrapper](https://foundryvtt.com/packages/lib-wrapper/) library module to safely change Foundry's core functionality. As a result, we've added it to this module's dependencies as well.
 
 ## In Alphabetical Order
 
