@@ -1,11 +1,11 @@
 {
   "name": "ux-module-bundle",
-  "title": "UX Module Bundle",
+  "title": "UX Improvement Bundle",
   "description": "A bundle of system-agnostic UX tweaks to make GM and Players' lives easier.",
   "version": "0.0.3",
   "minimumCoreVersion": "0.6.2",
   "compatibleCoreVersion": "0.6.6",
-  "author": "akrigline",
+  "author": "Andrew Krigline (akrigline)",
   "dependencies": [
     {
       "name": "compendium-folders",

@@ -7,9 +7,9 @@ This module isn't really a module. It's just a bunch of dependencies as a way to
 
 Most of these speak for themsevles, below are the elevator pitch versions of their descriptions, as well as links to the module pages.
 
-## Bundle Installation
+## Bundle Installation & Activation
 
-Theoretically, just add this module to your installation and it will prompt you to install all dependencies.
+Add this module to your installation and it will prompt you to install all dependencies. To activate all of the modules in this bundle, simply activate the "UX Improvement Bundle" in the manage modules settings.
 
 ```
 https://github.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle/releases/latest/download/module.json
