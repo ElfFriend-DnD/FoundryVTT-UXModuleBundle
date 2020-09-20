@@ -32,6 +32,10 @@
       "manifest": "https://gitlab.com/riccisi/foundryvtt-search-anywhere/raw/master/module/module.json"
     },
     {
+      "name": "select-tool-everywhere",
+      "manifest": "https://raw.githubusercontent.com/KayelGee/select-tool-everywhere/v1.1.1/module.json"
+    },
+    {
       "name": "tidy-ui_game-settings",
       "manifest": "https://raw.githubusercontent.com/sdenec/tidy-ui_game-settings/master/module.json"
     },

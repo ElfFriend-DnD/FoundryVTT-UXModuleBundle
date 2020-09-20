@@ -77,6 +77,14 @@ Several of these modules use the [libWrapper](https://foundryvtt.com/packages/li
 > Adds a way to quickly search for any entity by name via a handy auto-complete widget.
 
 
+### [Select Tool Everywhere](https://foundryvtt.com/packages/select-tool-everywhere/)
+
+- [Project Source](https://github.com/KayelGee/select-tool-everywhere)
+- **Author:** [Kayelgee](https://foundryvtt.com/community/kayelgee)
+
+> Adds the select tool to all controls (measure templates, lighting and sound) and a patch for journal notes so the select tool works there too. You can move multiple light/sounds/templates/journals with this.
+
+
 ### [Tidy UI - Game Settings](https://foundryvtt.com/packages/tidy-ui_game-settings/)
 
 - [Project Source](https://github.com/sdenec/tidy-ui_game-settings)
