@@ -15,6 +15,10 @@ Theoretically, just add this module to your installation and it will prompt you 
 https://github.com/ElfFriend-DnD/FoundryVTT-UXModuleBundle/releases/download/latest/module.json
 ```
 
+### libWrapper
+
+Several of these modules use the [libWrapper](https://foundryvtt.com/packages/lib-wrapper/) library module to safely change Foundry's core functionality. When installing these modules, Foundry may prompt you to install libWrapper if you haven't already.
+
 ## In Alphabetical Order
 
 ### [Compendium Folders](https://foundryvtt.com/packages/compendium-folders/)
