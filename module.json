@@ -28,7 +28,7 @@
       "manifest": "https://bitbucket.org/Fyorl/easy-target/raw/master/module.json"
     },
     {
-      "name": "permission_viewier",
+      "name": "permission_viewer",
       "manifest": "https://raw.githubusercontent.com/kakaroto/fvtt-module-permission-viewer/v0.7/module.json"
     },
     {
