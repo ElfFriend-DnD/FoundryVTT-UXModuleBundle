@@ -2,7 +2,7 @@
   "name": "ux-module-bundle",
   "title": "UX Module Bundle",
   "description": "A bundle of system-agnostic UX tweaks to make GM and Players' lives easier.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "minimumCoreVersion": "0.6.2",
   "compatibleCoreVersion": "0.6.6",
   "author": "akrigline",
@@ -26,6 +26,10 @@
     {
       "name": "easy-target",
       "manifest": "https://bitbucket.org/Fyorl/easy-target/raw/master/module.json"
+    },
+    {
+      "name": "permission_viewier",
+      "manifest": "https://raw.githubusercontent.com/kakaroto/fvtt-module-permission-viewer/v0.7/module.json"
     },
     {
       "name": "searchanywhere",
