@@ -48,6 +48,10 @@
       "manifest": "https://raw.githubusercontent.com/sdenec/tidy-ui_game-settings/master/module.json"
     },
     {
+      "name": "token-owner-selection-tweak",
+      "manifest": "https://github.com/ElfFriend-DnD/foundryvtt-tokenOwnerSelectionTweak/releases/download/v0.1.8/module.json"
+    },
+    {
       "name": "zoom-pan-options",
       "manifest": "https://github.com/itamarcu/ZoomPanOptions/releases/download/1.3.8/module.json"
     }
