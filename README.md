@@ -21,6 +21,14 @@ Several of these modules use the [libWrapper](https://foundryvtt.com/packages/li
 
 ## In Alphabetical Order
 
+### [Batch Permission Change by Folder](https://foundryvtt.com/packages/BatchPermissionsByFolder/)
+
+- [Project Source](https://github.com/wsaunders1014/BatchPermissionsByFolder)
+- **Author:** [Will S](https://foundryvtt.com/community/wsaunders1014)
+
+> Adds a context option to folders in Actors, Items, Journals, and RollTables to change the permission of each entity inside the folder at once.
+
+
 ### [Compendium Folders](https://foundryvtt.com/packages/compendium-folders/)
 
 - [Project Source](https://github.com/earlSt1/vtt-compendium-folders)
@@ -67,6 +75,14 @@ Several of these modules use the [libWrapper](https://foundryvtt.com/packages/li
 - **Author:** [KaKaRoTo](https://foundryvtt.com/community/kakaroto)
 
 > Quickly see which entities (Journal entries, Actors, etc..) are visible to all players or visible to a specific player.
+
+
+### [Quick Scene View](https://foundryvtt.com/packages/quicksceneview/)
+
+- [Project Source](https://gitlab.com/reichler/quicksceneview)
+- **Author:** [wonko](https://foundryvtt.com/community/wonko)
+
+> View a scene directly from the sidebar Scenes Directory context menu without activating it or adding it to the navigation first.
 
 
 ### [Search Anywhere](https://foundryvtt.com/packages/searchanywhere/)

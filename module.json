@@ -8,6 +8,10 @@
   "author": "Andrew Krigline (akrigline)",
   "dependencies": [
     {
+      "name": "BatchPermissionsByFolder",
+      "manifest": "https://raw.githubusercontent.com/wsaunders1014/BatchPermissionsByFolder/master/module.json"
+    },
+    {
       "name": "compendium-folders",
       "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
     },
@@ -34,6 +38,10 @@
     {
       "name": "permission_viewer",
       "manifest": "https://raw.githubusercontent.com/kakaroto/fvtt-module-permission-viewer/v0.7/module.json"
+    },
+    {
+      "name": "quicksceneview",
+      "manifest": "https://gitlab.com/reichler/quicksceneview/-/raw/master/quicksceneview/module.json"
     },
     {
       "name": "searchanywhere",
