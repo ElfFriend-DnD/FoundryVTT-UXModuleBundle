@@ -37,14 +37,6 @@ Several of these modules use the [libWrapper](https://foundryvtt.com/packages/li
 > Compendium Folders adds a nested folder structure for your compendiums.
 
 
-### [Deselection](https://foundryvtt.com/packages/deselection/)
-
-- [Project Source](https://github.com/Sky-Captain-13/foundry/tree/master/deselection)
-- **Authors:** [Sky](https://foundryvtt.com/community/sky), [Kakaroto](https://foundryvtt.com/community/kakaroto)
-
-> The Deselection module disables the requirement to make a drag selection box on an empty part of the map to deselect a token or tokens. Instead, you can simply single click anywhere in an empty space to deselect an object.
-
-
 ### [Dice Tray](https://foundryvtt.com/packages/dice-calculator/)
 
 - [Project Source](https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator)
@@ -133,6 +125,8 @@ Open an Issue with your module proposal and a brief rationale.
 ## Honorable Mentions
 
 These are some modules that are very useful in the same vein as this list, but have more opportunity for conflict and thus weren't included.
+
+- [Deselection](https://foundryvtt.com/packages/deselection/) - Simple, elegant, just click on a blank space to deselect. I would have included this but could not get in touch with the author for approval.
 
 - [Laptop Form Fix](https://foundryvtt.com/packages/laptop-fix/) - Lots of tweaks to the UI to allow it to work on smaller laptop screens, high surface area for conflicts with other UI-involved modules.
 
