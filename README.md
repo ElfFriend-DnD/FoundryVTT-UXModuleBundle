@@ -124,10 +124,10 @@ Open an Issue with your module proposal and a brief rationale.
 
 ## Honorable Mentions
 
-These are some modules that are very useful in the same vein as this list, but have more opportunity for conflict and thus weren't included.
+These are some modules that are very useful in the same vein as this list, but for one reason or another weren't included.
 
 - [Deselection](https://foundryvtt.com/packages/deselection/) - Simple, elegant, just click on a blank space to deselect. I would have included this but could not get in touch with the author for approval.
 
 - [Laptop Form Fix](https://foundryvtt.com/packages/laptop-fix/) - Lots of tweaks to the UI to allow it to work on smaller laptop screens, high surface area for conflicts with other UI-involved modules.
 
-- [Pings](https://foundryvtt.com/packages/pings/) - A familiar concept for Roll20 users, Pings allows players to click and hold to draw attention to an area. It also has the option to bring all users' screens to a spot.
+- [Pings](https://foundryvtt.com/packages/pings/) - A familiar concept for Roll20 users, Pings allows players to click and hold to draw attention to an area. It also has the option to bring all users' screens to a spot. Has a higher chance for conflicts with other mouse and keyboard modifying modules.
